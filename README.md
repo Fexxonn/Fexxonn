@@ -2,11 +2,9 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/david-torrenegra-g%C3%B3mez-b89073299/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<<<<<<< HEAD:README.txt
 <a href = "https://mail.google.com/mail/torrenegradavid@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Fexxonn"  /></a>
-=======
+
 <a href = "torrenegradavid@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Fexxonn"  /></a>
->>>>>>> 6f2a7748d699c3d3e9156043f529e51c08095607:README.md
   </p>
 <br>
 <h2>Sobre mi 😁</h2>
