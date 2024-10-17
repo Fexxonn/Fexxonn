@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋  Me llamo David / Front-end Junior ✨ </h1> 
 
 <p align="left">
-<a href = "SystemDatogo@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Fexxonn"  /></a>
+<a href = "mailto:SystemDatogo@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Fexxonn"  /></a>
   </p>
 <br>
 <h2>Sobre mi 😁</h2>
