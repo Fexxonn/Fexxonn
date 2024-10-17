@@ -11,7 +11,7 @@
 <p align="left">
 🎓 Front-end Development
 
-💻 Tengo 17 años y algunos meses de experiencia. Amo la programación desde los 8 años y comencé a escribir código a los 11 años. Espero seguir avanzando y aprendiendo mucho más.
+💻 Tengo 18 años y algunos meses de experiencia. Amo la programación desde los 8 años y comencé a escribir código a los 11 años. Espero seguir avanzando y aprendiendo mucho más.
 
 📝 roles en el ámbito: desarrollador web con react y lider de un equipo de trabajo.
 
