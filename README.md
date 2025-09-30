@@ -1,20 +1,17 @@
-<h1 align="center">Hola 👋  Me llamo David / Front-end Junior ✨ </h1> 
+<h1 align="center">Hola 👋  Me llamo David / Full-Stack Junior ✨ </h1>
 
-<p align="left">
-<a href = "mailto:SystemDatogo@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Fexxonn"  /></a>
-  </p>
-<br>
-<h2>Sobre mi 😁</h2>
+<h2 align="center"> Sobre mi 😁</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 Front-end Development
+🎓 Full-Stack Development
 
-💻 Tengo 18 años y algunos meses de experiencia. Amo la programación desde los 8 años y comencé a escribir código a los 11 años. Espero seguir avanzando y aprendiendo mucho más.
+💻 Tengo 19 años y algunos meses de experiencia. Amo la programación desde los 8 años y comencé a escribir código a los 11 años. Espero seguir avanzando y aprendiendo mucho más.
 
 📝 roles en el ámbito: desarrollador web con react y lider de un equipo de trabajo.
 
 📫 Contacto: *torrenegradavid@gmail.com*
+
 <!--Intro end-->
   </p>
 <br>
@@ -36,8 +33,8 @@
 <tr border="none">
 <td width="60%" align="center">
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Fexxonn&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
+ <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Fexxonn&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Fexxonn&theme=dark&hide_border=false" /> 
 </td>
 
@@ -57,7 +54,6 @@
     </a>
 </div>
 <!--- trophy (start) -->
-
 
 </p>        
 <!--- stats (end) -->
