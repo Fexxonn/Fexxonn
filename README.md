@@ -2,7 +2,7 @@
 
 <h2 align="center"> Sobre mi 😁</h2>
 
-<hr>
+<p></p>
 <!--Intro start-->
 
 <p align="left">
