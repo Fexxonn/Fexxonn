@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋  Me llamo David / Full-Stack Junior ✨ </h1>
 
 <h2 align="center"> Sobre mi 😁</h2>
+
+<hr>
 <!--Intro start-->
 
 <p align="left">
